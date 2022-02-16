@@ -1,0 +1,4 @@
+on the next project use st++ 
+v.emplace_back()
+more methods 
+use for (auto name :our array-vec ) loops 
