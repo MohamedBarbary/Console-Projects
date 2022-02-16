@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/c++/my-github/Educatinal System/cmake-build-debug"
+			"value" : "e:/c++/my-github/Console-Projects/Educatinal System/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/c++/my-github/Educatinal System"
+			"value" : "E:/c++/my-github/Console-Projects/Educatinal System"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/c++/my-github/Educatinal System/cmake-build-debug"
+			"value" : "E:/c++/my-github/Console-Projects/Educatinal System/cmake-build-debug"
 		},
 		{
 			"name" : "Educatinal_System_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/c++/my-github/Educatinal System"
+			"value" : "E:/c++/my-github/Console-Projects/Educatinal System"
 		}
 	],
 	"kind" : "cache",
